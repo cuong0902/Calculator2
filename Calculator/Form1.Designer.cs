@@ -105,7 +105,7 @@
             this.btTru.TabIndex = 7;
             this.btTru.Text = "Tru";
             this.btTru.UseVisualStyleBackColor = true;
-            this.btTru.Click += new System.EventHandler(this.button1_Click);
+            this.btTru.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
